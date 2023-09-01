@@ -8,7 +8,7 @@ word_bank = [
     "TABLE", "CHAIR", "MUSIC", "OCEAN", "DANCE",
     "SUNNY", "SWEET", "EARTH", "FRUIT", "RIVER",
     "DREAM", "MAGIC", "CLEAN", "QUIET", "BIRDY",
-    "STONE", "SMILE", "LEAFY", "MERRY", "TIGER",
+    "STONE", "SEVEN", "LEAFY", "MERRY", "TIGER",
     "HAPPY", "SUNNY", "OCEAN", "RAINY", "BEACH",
     "RIVER", "CHILD", "MAPLE", "MIRTH"
 ]
