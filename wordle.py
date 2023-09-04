@@ -1,8 +1,10 @@
 # Made by: Shuban Pal & Hayden Chen
 # Depends on: Python standard libarary and "random" module
 
+# Import random module
 import random
 
+# State list type word_bank to contain all 5 letter words for the wordle
 word_bank = [
     "PEACH", "SMILE", "WATER", "HOUSE", "HAPPY",
     "TABLE", "CHAIR", "MUSIC", "OCEAN", "DANCE",
