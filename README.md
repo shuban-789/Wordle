@@ -1,5 +1,5 @@
 # WordlePy
-🐦Python recreation of the Wordle game
+Python recreation of the Wordle game
 
 ## Made by: Shuban Pal and Hayden Chen 🤠
 
