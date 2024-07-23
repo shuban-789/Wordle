@@ -1,4 +1,4 @@
-# WordlePy
+# Wordle
 Python recreation of the Wordle game
 
 ## Made by: Shuban Pal and Hayden Chen 🤠
