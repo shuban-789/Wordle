@@ -2,6 +2,7 @@
 Python and Go recreation of the Wordle game (CSP Project)
 
 > WordlePy: Shuban Pal and Hayden Chen 🤠
+
 > WordleGo: Shuban Pal 😎
 
 ## Documentation
